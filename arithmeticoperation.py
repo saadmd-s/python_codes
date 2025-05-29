@@ -1,0 +1,16 @@
+y=10
+y+=5
+print(y)
+x=8
+x-=3
+print(x)
+z=3
+z=z**2
+print(z)
+a=2
+a*=5
+print(a)
+b=6
+b/=2
+print(b)
+print(a%b)
